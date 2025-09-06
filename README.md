@@ -1,3 +1,3 @@
 # New Project
-this is our name created by debojyoti ghosh
+this is our name created by debojyoti ghosh.
 
